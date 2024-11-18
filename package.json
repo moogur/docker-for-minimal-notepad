@@ -1,0 +1,26 @@
+{
+  "name": "notepad",
+  "version": "0.0.1",
+  "description": "Докер сборка notepad, минималистический web редактор",
+  "main": "index.js",
+  "engines": {
+    "node": "20"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "husky": "^8.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moogur/docker-for-notepad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moogur/docker-for-notepad/issues"
+  },
+  "homepage": "https://github.com/moogur/docker-for-notepad#readme"
+}
